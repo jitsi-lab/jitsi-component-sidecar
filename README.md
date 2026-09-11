@@ -1,6 +1,9 @@
 # jitsi-component-sidecar
 Sidecar service for jitsi components
 
+# ARCHIVED
+IMPORTANT: This project has been archived.  It may be revisited in the future but is not in scope for the jitsi team at this time.
+
 ## Build
 ---
 **NOTE**
